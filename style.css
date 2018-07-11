@@ -28,6 +28,10 @@ h3 {
   line-height: 1.6em;
 }
 
+p {
+  font-size: 10px;
+}
+
 a {
   text-decoration: none;
   color: #ccc;
@@ -60,4 +64,9 @@ div {
 img {
   width: 100px;
   height: auto;
+}
+
+#profile_pic {
+  border-radius: 50%;
+  border: 3px solid #cccccc;
 }
